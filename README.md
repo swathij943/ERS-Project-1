@@ -38,7 +38,7 @@ Filter results by data within a given range
 Style user interfaces according to a consistent layout for better user experience
 Use local storage to have data persistent after refreshing the page
 Getting Started
-Clone repository into the a working directory with the following command: git clone https://github.com/robpduo/Expense-Reimbursement-System.git
+Clone repository into the a working directory with the following command: git clone https://github.com/swathij943/ERS-Project-1.git
 
 Run the Javalin server in the root directory under app/src/main/java/com.revature/driver.java
 
