@@ -1,0 +1,30 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
+k	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μρ¤ψÿÿÿÿ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μρ¤ψÿÿÿÿ
+M
+java:S2629i"7Use the built-in formatting to construct this argument.(θ•Ϋ
+M
+java:S2629w"7Use the built-in formatting to construct this argument.(Κυ³
+e
+java:S2095g"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†σω±
+e
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†σω±
+e
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†σω±
+e
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†σω±
+I
+java:S3416".Update this logger to use "ReimDaoJDBC.class".(Ω°¥ÿωÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Β–‘φ
+A
+java:S1168>"+Return an empty collection instead of null.(¥Ήο
+A
+java:S1168\"+Return an empty collection instead of null.(¥Ήο
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(Β–‘φ
+W
+java:S3457i"AFormat specifiers should be used instead of string concatenation.(θ•Ϋ
+W
+java:S3457w"AFormat specifiers should be used instead of string concatenation.(Κυ³
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦Ώηύÿÿÿÿ

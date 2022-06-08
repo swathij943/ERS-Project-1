@@ -1,0 +1,14 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "user_id" 7 times.(€Š§üÿÿÿÿ8¤É×Í0
+~
+java:S1104"\Make handleCreateReim a static final constant or non-public and provide accessors if needed.(‰î³íÿÿÿÿÿ8´É×Í0
+|
+java:S1104#"ZMake handleViewReim a static final constant or non-public and provide accessors if needed.(÷»Í‘şÿÿÿÿ8µÉ×Í0
+ƒ
+java:S11042"aMake handleViewPendingReim a static final constant or non-public and provide accessors if needed.(æØŸ­ıÿÿÿÿ8µÉ×Í0
+r
+java:S1104@"VMake handleDeny a static final constant or non-public and provide accessors if needed.(¤©ú^8µÉ×Í0
+v
+java:S1104Q"YMake handleApprove a static final constant or non-public and provide accessors if needed.(ˆü†Ğ8µÉ×Í0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ïµ÷–şÿÿÿÿ8¤Ê×Í0

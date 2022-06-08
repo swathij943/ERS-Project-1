@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #0d0a00;
+}
+nav
+{
+    text-align: right;
+    background-color: #362a00;
+    padding: 20px;
+padding-top: 35px;height: 45px;}
+nav a
+{
+    font-size: 25px;
+    text-decoration: none;
+    color: gold;
+    padding: 15px;
+    margin: 10px 50px 10px 50px;
+    transition: 0.3s;
+    border: 2px solid #544109;
+    border-radius: 10px;
+    background-color: #ffc1071f;
+}
+nav a:hover
+{    
+    color: gold;
+    box-shadow: 0px 0px 25px gold;
+    background-color: #ffc1071f;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#user{
+    border: none;
+    background-color: #362a0000;
+}
+
+#user:hover{
+    box-shadow: none;
+}

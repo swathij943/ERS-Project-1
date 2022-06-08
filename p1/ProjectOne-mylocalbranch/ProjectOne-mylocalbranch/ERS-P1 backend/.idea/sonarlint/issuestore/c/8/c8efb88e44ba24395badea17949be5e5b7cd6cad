@@ -1,0 +1,9 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "loggedIn" 4 times.(ØŞÊ8ˆóÙÍ0
+y
+java:S1104"WMake handleLogin a static final constant or non-public and provide accessors if needed.(“š’¤ûÿÿÿÿ8ˆóÙÍ0
+z
+java:S1104("XMake handleUpdate a static final constant or non-public and provide accessors if needed.(äª²˜ÿÿÿÿÿ8ˆóÙÍ0
+z
+java:S1104="XMake handleLogout a static final constant or non-public and provide accessors if needed.(¤Ò¾ßûÿÿÿÿ8ˆóÙÍ0

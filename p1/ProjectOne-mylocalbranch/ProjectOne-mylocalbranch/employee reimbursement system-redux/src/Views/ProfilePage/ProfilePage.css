@@ -1,0 +1,19 @@
+.userDetailsContainer {
+    width: 40%;
+    margin: 10% auto;
+    text-align: center;
+    flex: 0 50%;
+    background: #362a00;
+    box-shadow: 0 2px 4px 0 rgb(136 144 195 / 20%), 0 5px 15px 0 rgb(37 44 97 / 15%);
+    border-radius: 15px;
+    padding: 10px 15px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    transition: 0.7s;
+}
+
+.userDetailsContainer h1{
+    margin: 10px;
+    color: gold;
+}

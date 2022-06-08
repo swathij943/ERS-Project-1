@@ -1,0 +1,19 @@
+
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ°ú–úÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ºåóÿÿÿÿÿ
+Y
+java:S2583="CChange this condition so that it does not always evaluate to "true"(¤òª£
+{
+java:S1450"`Remove the "preparedStatement" field and declare it as a local variable in the relevant methods.(õ•Õ°üÿÿÿÿ
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¤²ïÜ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õ•Õ°üÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ëø!
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(´°îµøÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(±¤ª¹
+1
+java:S3626E"Remove this redundant jump.(ûÁİ…
