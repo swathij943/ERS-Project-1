@@ -1,9 +1,11 @@
 # ERS-Project-1
 
 Project Description
+
 The Expense Reimbursement System manages the process of reimbursing employees for expenses incurred.
 
 Technologies Used
+
 Javalin, version 4.1.1
 Java, version 1.8.0
 slf4j version 1.7.32
@@ -44,4 +46,4 @@ Run the Javalin server in the root directory under app/src/main/java/com.revatur
 
 Run the React front-end components by changing directory into ers-frontend folder from the root director: cd ers-frontend/ npm install (to install all the node modules used within the system) npm start
 
-Setup the dat
+Setup the data
