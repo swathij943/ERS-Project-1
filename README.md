@@ -1,10 +1,10 @@
 # ERS-Project-1
 
-Project Description
+>Project Description
 
 The Expense Reimbursement System manages the process of reimbursing employees for expenses incurred.
 
-Technologies Used
+>Technologies Used
 
 Javalin, version 4.1.1
 Java, version 1.8.0
