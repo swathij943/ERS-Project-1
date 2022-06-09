@@ -7,6 +7,7 @@ The Expense Reimbursement System manages the process of reimbursing employees fo
 Technologies Used
 
 Javalin, version 4.1.1
+
 Java, version 1.8.0
 slf4j version 1.7.32
 Gradle
