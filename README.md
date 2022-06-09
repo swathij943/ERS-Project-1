@@ -74,9 +74,9 @@ The Expense Reimbursement System manages the process of reimbursing employees fo
 
 # Contributors
 
-Swathi Jayasree Github - https://github.com/swathij943
+Swathi Jayasree - Github: https://github.com/swathij943
 
-Milan Verma Github - https://github.com/MillanAir
+Milan Verma - Github: https://github.com/MillanAir
 
 
 
