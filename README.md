@@ -1,6 +1,6 @@
 # ERS-Project-1
 
->Project Description
+#Project Description
 
 The Expense Reimbursement System manages the process of reimbursing employees for expenses incurred.
 
