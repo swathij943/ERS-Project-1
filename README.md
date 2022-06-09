@@ -53,22 +53,29 @@ The Expense Reimbursement System manages the process of reimbursing employees fo
 # As an Employee
 
 1.Register a new user as an employee
-ers1.PNG
+
 2.Login using the same credential you used to register your account
+
 3.Use the navigation bar at the top of the page to submit a reimbursement form
+
 4.After navigating to the reimbursement form, fill out the form to submit a request
+
 5.You may view any pending and resolved request by navigating to the corresponsing page
 
 # As a Manager
 
 1.After logging in, the navigation bar will include an extended features list
+
 2.Viewing all pending requests will give you the option to filter and resolve the pending requests
-3.Viewing all resolved request 
+
+3.Viewing all resolved request
+
 4.Viewing all employees
 
 # Contributors
 
 Swathi Jayasree Github - https://github.com/swathij943
+
 Milan Verma Github - https://github.com/MillanAir
 
 
