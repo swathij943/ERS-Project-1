@@ -7,7 +7,6 @@ The Expense Reimbursement System manages the process of reimbursing employees fo
 Technologies Used
 
 Javalin, version 4.1.1
-
 Java, version 1.8.0
 slf4j version 1.7.32
 Gradle
@@ -15,7 +14,9 @@ Javascript
 HTML
 CSS
 React
+
 Features
+
 Employees are given the option to be registered into the system with a chosen unique username and a(n) auto generated account Id that will be associated with the account.
 
 An employee will be able to login to the account with the corresponding username and password, and submit a reimbursement request for later approval .
